@@ -27,7 +27,7 @@
 Если вы используете `Python 3`, у вас уже установлен модуль [venv](https://docs.python.org/3/library/venv.html) в стандартной библиотеке.
 
 ### Запуск проекта (на примере Manjaro Linux)
-- Клонировать проект командой: git clone `https://gitlab.skillbox.ru/liutsifer_666/python_basic_diploma/-/merge_requests/2`
+- Клонировать проект командой: git clone `https://github.com/Lucifxr6x6/Telegramm-bot.git`
 - создать файл `.env` вида:
 
     BOT_TOKEN= "ваш бот токен"<br>
@@ -43,7 +43,7 @@
 ### Запуск проекта (на примере Windows)
 
 - Создайте на своем компютере папку проекта
-- Склонируйте этот репозиторий в папку проекта `https://gitlab.skillbox.ru/liutsifer_666/python_basic_diploma/-/merge_requests/2`
+- Склонируйте этот репозиторий в папку проекта `https://github.com/Lucifxr6x6/Telegramm-bot/-/merge_requests/2`
   - Создайте файл `.env` и добавьте в него переменные окружения, следующего вида:
   <br>
       BOT_TOKEN= "ваш бот токен"<br>
